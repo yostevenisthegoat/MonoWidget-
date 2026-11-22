@@ -1,0 +1,6 @@
+{
+  "name": "WidgetLite",
+  "description": "Free, open-source, privacy-first Android home screen widgets with full visual customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

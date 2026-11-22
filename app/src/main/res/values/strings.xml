@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WidgetLite</string>
+    <string name="app_tagline">Your Home Screen. Your Freedom. Completely Free.</string>
+    <string name="widget_desc_small">WidgetLite 2x2 customizable widget (Clocks, Battery, Goals, Shortcuts &amp; more)</string>
+    <string name="widget_desc_medium">WidgetLite 4x2 customizable widget (Weather, To-Do, Pomodoro, Agenda &amp; more)</string>
+    <string name="widget_desc_large">WidgetLite 4x4 customizable widget (Calendar, Forecast, Notes, Habits &amp; more)</string>
+    <string name="widget_desc_strip">WidgetLite 4x1 compact bar widget (Quick Settings, Status, Quotes &amp; more)</string>
+</resources>
